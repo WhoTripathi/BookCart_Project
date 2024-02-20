@@ -1,0 +1,22 @@
+body {
+	background: #33cc33;
+}
+
+.green
+{
+	background: #33cc33;
+}
+
+.myfont
+{
+  font-family: Georgia, serif;
+}
+.margin100
+{
+	margin-top:100px;
+}
+.center 
+{
+	display: flex;
+	justify-content: center;
+}
